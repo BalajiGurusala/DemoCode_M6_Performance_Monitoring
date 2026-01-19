@@ -1,5 +1,0 @@
-#Ignore large data files
-*.csv
-*.zip
-data/
-monitoring/*.csv
