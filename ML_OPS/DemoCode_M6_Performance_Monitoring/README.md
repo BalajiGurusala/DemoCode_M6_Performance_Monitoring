@@ -226,3 +226,6 @@ pip install -r requirements.txt
 **Thank you for using M6_Performance_Monitoring!**
 
 This module provides a solid foundation for robust ML deployment, monitoring, and CI/CD with minimal manual overhead.
+
+
+#Make sure .git and .github are in the same directory
