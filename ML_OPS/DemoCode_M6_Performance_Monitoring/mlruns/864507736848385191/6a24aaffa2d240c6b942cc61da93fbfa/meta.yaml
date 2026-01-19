@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/balaji.gurusala/Documents/Code/AI_Coding/AI/ML_OPS/DemoCode_M6_Performance_Monitoring/mlruns/864507736848385191/6a24aaffa2d240c6b942cc61da93fbfa/artifacts
+end_time: 1768793182786
+entry_point_name: ''
+experiment_id: '864507736848385191'
+lifecycle_stage: active
+run_id: 6a24aaffa2d240c6b942cc61da93fbfa
+run_name: bald-ox-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768793098118
+status: 3
+tags: []
+user_id: balaji.gurusala
